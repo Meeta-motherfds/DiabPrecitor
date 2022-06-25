@@ -7,7 +7,6 @@
 
 **Future Ready Talent (FRT) Project URL :**  https://dbfile.azurewebsites.net/
 
-**Demonstrating Video URL : **
 
 • This repository consists of files required to deploy a ___Web App___ created with ___Flask___ on ___Microsoft___ Azure.# diabetes_predictor
 The project helps the user to identify whether someone is suffering from diabetes by simply inputting certain values like BMI, Glucose level, Blood pressure etc. with the help of a Kaggle database.

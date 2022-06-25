@@ -1,9 +1,9 @@
 # Diabetes Prediction
 ![Kaggle](https://img.shields.io/badge/Dataset-Kaggle-blue.svg) ![Python 3.8.5](https://img.shields.io/badge/Python-3.6-brightgreen.svg) ![scikit-learnn](https://img.shields.io/badge/Library-Scikit_Learn-orange.svg)
 
-**Industry :** Health
+#**Industry :** Health
 
-**GitHub respository URL :** https://github.com/Meeta-motherfds/DiabPrecitor
+#**GitHub respository URL :** https://github.com/Meeta-motherfds/DiabPrecitor
 
 **Future Ready Talent (FRT) Project URL :**  https://dbfile.azurewebsites.net/
 
@@ -16,11 +16,11 @@ By using the statistical data about how certain aspects like BMI, Glucose level,
 
 I used Web Apps service of Microsoft Azure in my project and deploy the codes source from Vs Code to Azure using Github.
 
-**Azure Services :** Azure Web App, Static Web App
+#**Azure Services :** Azure Web App, Static Web App
 
 
 Here, 
-**Output** of the woking project -
+#**Output** of the woking project -
 
 **1. Main Page:**
 
@@ -49,7 +49,7 @@ You don't have a Diabetes but if you have then output will be shows like this:
 ![Screenshot 2022-06-25 17 47 49](https://user-images.githubusercontent.com/70017077/175774028-f337e426-752b-4cd1-82cc-4742f954b731.png)
 
 
-**Deployment steps followed :**
+#**Deployment steps followed :**
 
 
-**Conclusion :** The best clinical predictor of diabetes is adiposity, and baseline glucose is the best biological predictor.
+#**Conclusion :** The best clinical predictor of diabetes is adiposity, and baseline glucose is the best biological predictor.

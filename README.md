@@ -23,29 +23,24 @@ Here,
 
 **1. Main Page:**
 
-![Screenshot 2022-06-25 17 33 47](https://user-images.githubusercontent.com/70017077/175773758-8f8fd60e-2f00-4acd-b534-0adacf955f59.png)
 
 
 **2. Insert values in the given fields:**
 
-![Screenshot 2022-06-25 17 37 21](https://user-images.githubusercontent.com/70017077/175773805-63b2f15c-a4fb-44e9-9818-141fa8aa6eab.png)
 
 
 **3. Result:**
 
-![Screenshot 2022-06-25 17 38 58](https://user-images.githubusercontent.com/70017077/175773869-dc533255-1277-4f12-bfe3-40c06797b37e.png)
 
 
 You don't have a Diabetes but if you have then output will be shows like this:
 
 4. Again insert the values in thier fields:****
 
-![Screenshot 2022-06-25 17 47 34](https://user-images.githubusercontent.com/70017077/175774000-f2c7ed9a-2d7a-461a-8257-30f7b36c5e10.png)
 
 
 **5. And there result shows like this:**
 
-![Screenshot 2022-06-25 17 47 49](https://user-images.githubusercontent.com/70017077/175774028-f337e426-752b-4cd1-82cc-4742f954b731.png)
 
 
 **Deployment steps followed :**

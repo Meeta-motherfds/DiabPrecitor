@@ -1,6 +1,6 @@
-PLEASE CHECK THIS REPOSITORY BY USING THE BELOW LINK:
+PLEASE CHECK THIS   Ed-Tech Project   REPOSITORY BY USING THE BELOW LINK:
 
-https://github.comMeeta-motherfds/tech
+https://github.com/Meeta-motherfds/tech
 
 
 
